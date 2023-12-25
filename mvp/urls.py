@@ -20,7 +20,7 @@ from drf_yasg.openapi import Info, Contact, License
 from rest_framework.permissions import AllowAny
 schema_view = get_schema_view(
     Info(
-        title='Eventforme',
+        title='MVP',
         default_version='1.0',
         description='full documentation api',
         contact=Contact(email='ogannes@mail.ru'),
